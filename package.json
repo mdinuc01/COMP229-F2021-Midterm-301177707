@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mdinuc01/COMP229-MIDTERM-301177707"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Michael-Angelo Dinuccio",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/mdinuc01/COMP229-MIDTERM-301177707"
   },
-  "homepage": ""
+  "homepage": "https://comp229-midterm-301177707.herokuapp.com/"
 }

@@ -1,6 +1,7 @@
-//Name: Michael-Angelo Dinuccio
-//Student Number: 301177707
-//COMP229 Web Application
+/* <   File Name: books.js
+    Student Name: Michael-Angelo Dinuccio
+    StudentID: 301177707
+    Date: October 24th, 2021 */
 
 
 // modules required for routing
